@@ -2,7 +2,7 @@ import constants from './NewsFeeds.constants';
 import NewsFeedsService from "../../../../services/NewsFeeds/NewsFeeds.service.api";
 
 
-//Page Counter Action Creators
+// Action Creators
 
 /**
  * @function pageCounter
